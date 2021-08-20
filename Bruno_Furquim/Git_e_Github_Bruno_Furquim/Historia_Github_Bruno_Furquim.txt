@@ -1,5 +1,7 @@
 Historia_Github_Bruno_Furquim
 
+Historia_Github_Ricardo_Silva - Consegui acessar ao arquivo!
+
 a. Quem inventou o sistema de controle de versão Git e por quê?
 
 O Git foi projetado e desenvolvido por Linus Torvalds para o 
